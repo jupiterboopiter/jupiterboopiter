@@ -21,7 +21,7 @@
   process and hope that I will make lots of amazing projects for everyone to see and use!
 
 <div id="about" align="left">
-  <img src="https://i.gifer.com/Mc28.gif"/>
+  <img src="https://i.pinimg.com/originals/54/2b/9e/542b9e472a4bf8fff355af5761011ce9.gif" align="left"/>
   <h3> ☾ 𝓢𝓸, 𝔀𝓱𝓪𝓽 𝓪𝓶 𝓘 𝓭𝓸𝓲𝓷𝓰 𝓱𝓮𝓻𝓮? ☽ </h3>
   Well I have lots of different projects on here that come from either TOP, other websites/videos, or just simple my own ideas.
 </div>
