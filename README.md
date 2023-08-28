@@ -4,16 +4,6 @@
 I really appreciate you for stopping by! :) I am currently studying The Odin Project curriculum to get my career as a front-end developer started. By all means, I am still very much a beginner but I am thoroughly enjoying the studying process and hope that I will make lots of amazing projects for everyone to see and use!
 
 
-## ![planet](https://github.com/jupiterboopiter/jupiterboopiter/assets/135379233/75097309-7411-46ed-8a6d-ed981aeeb253) *+:｡.｡ 𝓢𝓸, 𝔀𝓱𝓪𝓽 𝓪𝓶 𝓘 𝓭𝓸𝓲𝓷𝓰 𝓱𝓮𝓻𝓮? ｡.｡:+*
-
-
-
-
-- I'm 
-- I'm
-- I 
-- I'
-- I
-- 
- <p /> 
-<br clear="left"/>
+![planet](https://github.com/jupiterboopiter/jupiterboopiter/assets/135379233/75097309-7411-46ed-8a6d-ed981aeeb253) 
+<h3> *+:｡.｡ 𝓢𝓸, 𝔀𝓱𝓪𝓽 𝓪𝓶 𝓘 𝓭𝓸𝓲𝓷𝓰 𝓱𝓮𝓻𝓮? ｡.｡:+* </h3>
+Well I have lots of different projects on here that come from either TOP, other websites/videos, or just simple my own ideas.
