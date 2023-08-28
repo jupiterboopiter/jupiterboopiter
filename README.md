@@ -3,7 +3,7 @@
   <img src="https://64.media.tumblr.com/d103eb823dce2842c673f409f036857b/tumblr_mzx9wrdwFa1snc5kxo1_1280.gif"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="#">
     <img src="https://github.com/jupiterboopiter/jupiterboopiter/assets/135379233/5bc93147-3dbd-4cb1-a15a-2b08b2abb673" alt="LinkedIn Badge"/>
   </a>
@@ -22,3 +22,5 @@ I really appreciate you for stopping by! :) I am currently studying The Odin Pro
 
 ![planet](https://github.com/jupiterboopiter/jupiterboopiter/assets/135379233/75097309-7411-46ed-8a6d-ed981aeeb253) <h3> ☾ 𝓢𝓸, 𝔀𝓱𝓪𝓽 𝓪𝓶 𝓘 𝓭𝓸𝓲𝓷𝓰 𝓱𝓮𝓻𝓮? ☽ </h3>
 Well I have lots of different projects on here that come from either TOP, other websites/videos, or just simple my own ideas.
+
+
