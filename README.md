@@ -30,9 +30,9 @@
   <h3>༄ 𝓜𝓸𝓻𝓮 𝓪𝓫𝓸𝓾𝓽 𝓶𝓮! ༄</h3>
   <p>I am generally a pretty introverted person and I love all things creative! Some of my other hobbies include:</p>
   <ul>
-    <li>Making and selling gel press on nails that I make and draw nail art on myself.</li>
+    <li>Making and selling gel press on nails that I make and draw nail art on myself. I've always loved doing my nails as a kid.</li>
     <li>I grew up gaming and it never left me as I still often play lots of games. Mainly on the PC or even lots of VR gaming!</li>
-    <li></li>
+    <li>Decorating and even making my own decorations for my room and rest of the house. I'm a pretty big fan of maximalism on my walls and just all things cute and colorful. <3</li>
   </ul>
 </div>
 
