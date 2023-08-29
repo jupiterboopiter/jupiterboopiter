@@ -23,7 +23,17 @@
 <div id="about" align="left">
   <img src="https://i.pinimg.com/originals/54/2b/9e/542b9e472a4bf8fff355af5761011ce9.gif" align="left"/>
   <h3> ☾ 𝓢𝓸, 𝔀𝓱𝓪𝓽 𝓪𝓶 𝓘 𝓭𝓸𝓲𝓷𝓰 𝓱𝓮𝓻𝓮? ☽ </h3>
-  Well I have lots of different projects on here that come from either TOP, other websites/videos, or just simple my own ideas.
+  Well I have lots of different projects on here that come from either TOP, other websites/videos, or just simply my own ideas. I tend to go back to random projects and just readjust or clean stuff up whenever I'm bored. But obviously,     GitHub is an amazing platform where I hope to get a good job out of and simply just being in my own little coding world. <3
+</div>
+
+<div id="facts" align="left">
+  <h3>༄ 𝓜𝓸𝓻𝓮 𝓪𝓫𝓸𝓾𝓽 𝓶𝓮! ༄</h3>
+  <p>I am generally a pretty introverted person and I love all things creative! Some of my other hobbies include:</p>
+  <ul>
+    <li>Making and selling gel press on nails that I make and draw nail art on myself.</li>
+    <li>I grew up gaming and it never left me as I still often play lots of games. Mainly on the PC or even lots of VR gaming!</li>
+    <li></li>
+  </ul>
 </div>
 
 
